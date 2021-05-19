@@ -4,6 +4,6 @@
 
 <details>
 <summary>GitHub stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talesard" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talesard&layout=compact" />
   <p/>
 </details>
